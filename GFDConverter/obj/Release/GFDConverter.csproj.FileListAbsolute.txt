@@ -1,0 +1,6 @@
+C:\Users\Kirito\Desktop\GFDConverter\GFDConverter\obj\Release\GFDConverter.csproj.CoreCompileInputs.cache
+C:\Users\Kirito\Desktop\GFDConverter\GFDConverter\bin\Release\GFDConverter.exe.config
+C:\Users\Kirito\Desktop\GFDConverter\GFDConverter\bin\Release\GFDConverter.exe
+C:\Users\Kirito\Desktop\GFDConverter\GFDConverter\bin\Release\GFDConverter.pdb
+C:\Users\Kirito\Desktop\GFDConverter\GFDConverter\obj\Release\GFDConverter.exe
+C:\Users\Kirito\Desktop\GFDConverter\GFDConverter\obj\Release\GFDConverter.pdb
