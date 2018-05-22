@@ -125,7 +125,7 @@ namespace GFDConverter
                     GlyphPos = entry.GlyphPos,
                     GlyphSize = entry.GlyphSize,
                     CharacterSize = GetByteA(GetInt(entry.GlyphSize.Reverse().ToArray()) & 0xFFF000 | entry.CharWidth).Reverse().ToArray(),
-                    MaxCharHeight = (byte)(GetInt(entry.GlyphSize.Reverse().ToArray()) >> 12),
+                    MaxCharHeight = 0x14, //Math.Min(0x14, (byte)(GetInt(entry.GlyphSize.Reverse().ToArray()) >> 12)),
                     XCorrection = 0,
                     YCorrection = 0
                 });
